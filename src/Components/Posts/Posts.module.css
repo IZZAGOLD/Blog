@@ -1,0 +1,19 @@
+.button_group {
+    display: flex;
+    margin: 15px;
+}
+
+.modal_add_post {
+    margin-right: 10px;
+}
+
+.update_posts {
+    margin-right: 10px;
+}
+
+.pagination {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
